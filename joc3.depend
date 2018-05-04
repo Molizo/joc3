@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520594714 source:c:\users\mihneavisoiu\desktop\joc3\main.cpp
+	<iostream>
+	<fstream>
+
